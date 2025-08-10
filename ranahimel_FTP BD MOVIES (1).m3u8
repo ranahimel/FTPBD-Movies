@@ -134,6 +134,12 @@ https://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2025/In-the-Lost-Lan
 
 
 
+#EXTINF:0,In-the-Lost-Lands-2025
+#EXTGRP:ICC
+http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Dual%20Audio/In%20the%20Lost%20Lands%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+
+
+
 #EXTINF:0,Final-Destination-Bloodlines-2025
 #EXTGRP:2025
 https://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2025/Final-Destination-Bloodlines-2025/Final-Destination-Bloodlines-2025-WebRip-1080p-Hindi-English.mkv
@@ -165,6 +171,7 @@ https://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2025/Warfare-2025/Wa
 #EXTINF:0,Cape Fear (1991) (Hindi + English)
 #EXTGRP:ICC
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Dual%20Audio/Cape%20Fear%20(1991)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+
 
 
 
